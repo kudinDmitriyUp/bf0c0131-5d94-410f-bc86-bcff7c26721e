@@ -155,7 +155,7 @@ export default function LandingPage() {
               role: "Homeowner",
               company: "Real Estate Investor",
               rating: 5,
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764707287154-uisyf2ri.png"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764707902488-nb72ihsj.jpg"
             },
             {
               id: "2",
