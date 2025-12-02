@@ -79,7 +79,7 @@ export default function LandingPage() {
 
       <div id="properties" data-section="properties">
         <ProductCardThree
-          title="Featured Properties"
+          title="Featured Homes"
           description="Explore our latest luxury properties and find your perfect investment"
           tag="Premium Selection"
           products={[
