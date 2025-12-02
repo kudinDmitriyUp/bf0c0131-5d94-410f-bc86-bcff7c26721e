@@ -87,7 +87,7 @@ export default function LandingPage() {
               id: "1",
               name: "Modern Hillside Villa",
               price: "$2,450,000",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764707284593-po6y174h.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764710016619-w08nctvx.jpg",
               imageAlt: "Modern hillside villa with panoramic views"
             },
             {
